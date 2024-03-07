@@ -1,0 +1,1 @@
+This project is consisted of three windows: the login window, the register window, and the welcome window. Alll three windows contain a header, a cpp and a ui file. It also includes a user.h and users.cpp file in order to store the global arrays needed for this project. 
